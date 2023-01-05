@@ -28,6 +28,7 @@ section{
   list-style: none;
   display: flex;
   justify-content: center;
+  margin: 20px 0;
  
 }
 .f2 li{
@@ -38,28 +39,35 @@ section{
   cursor: pointer;
   margin: 0 5px;
 }
+
 li{
-  padding:45px 45px ;
+  padding:35px 30px ;
   font-weight: 700;
   font-size: 30px;
-  
   text-align: center;
   color:#707070;
+  
 }
 li:hover{
 
   background: #FFEEEE;
   border: 2px solid #FF5959;
   border-radius: 5px;
+  
 }
 .f2{
 
-  margin-bottom: 60px;
+ margin-bottom: 60px;
 }
 .f3{
   display: flex;
   flex-direction: column;
   align-items: center;
+  
+}
+.f3 input{
+  outline: none;
+  color: #121212;
 }
 .f3-p{
   text-align: center;
@@ -67,8 +75,12 @@ li:hover{
   font-weight: 400;
 font-size: 18px;
   width: 400px;
+  margin-top: 30px;
   margin-bottom: 30px;
-  padding: 5px 0;
+  padding: 5px 10px;
+  border-top: 0px solid white;
+  border-left: 0px solid white;
+  border-right: 0px solid white;
   border-bottom:2px solid #DADADA;
 }
 .s-cards{
