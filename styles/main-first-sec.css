@@ -1,0 +1,145 @@
+section{
+  margin-top: 130px;
+}
+
+.f1,.s1{
+  display: flex;
+  flex-direction: column;
+ 
+  padding: 0 170px;
+}
+
+.f-h2 , .s-h2{
+  font-weight: 700;
+  font-size: 45px;
+  color: #121212;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.f-p, .s-p{
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+  padding: 0 160px;
+}
+
+.f2 ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+ 
+}
+.f2 li{
+  display: flex;
+ 
+  flex-direction: row;
+  text-align: center;
+  cursor: pointer;
+  margin: 0 5px;
+}
+li{
+  padding:45px 45px ;
+  font-weight: 700;
+  font-size: 30px;
+  
+  text-align: center;
+  color:#707070;
+}
+li:hover{
+
+  background: #FFEEEE;
+  border: 2px solid #FF5959;
+  border-radius: 5px;
+}
+.f2{
+
+  margin-bottom: 60px;
+}
+.f3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.f3-p{
+  text-align: center;
+  color: #B3B3B3 ;
+  font-weight: 400;
+font-size: 18px;
+  width: 400px;
+  margin-bottom: 30px;
+  padding: 5px 0;
+  border-bottom:2px solid #DADADA;
+}
+.s-cards{
+  display: flex;
+  gap: 24px;
+  padding: 30px 30px;
+}
+.c{
+  padding: 30px 30px;
+  border-radius: 5px;
+}
+.c1{
+  background-color: rgb(149, 250, 216);
+}
+.c2{
+  background-color: #ff8e8e;
+}
+.c3{
+  background-color: rgb(198, 229, 255);
+}
+.c-tit{
+  font-weight: 600;
+font-size: 24px;
+color: #121212;
+margin-bottom: 30px;
+}
+.c-des{
+  font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #707070;
+}
+.s-cards img{
+  margin-bottom: 30px;
+}
+.two-part{
+display: flex;
+gap: 20px;
+padding: 0 60px;
+}
+
+.one h4{
+font-weight: 700;
+font-size: 45px;
+color: #121212;
+padding: 0px 150px;
+}
+.one p{
+  font-weight: 400;
+font-size: 18px;
+color: #707070;
+margin: 20px 0;
+padding:0px 150px;
+}
+
+
+.two-part .two img{
+  width: 330px;
+  height: 320px;
+  margin-right: 0px;
+}
+.one button{
+  margin: 12px 150px;
+  padding:  12px 16px;
+  background: #FF5959;
+  border-radius: 5px;
+  border: none;
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
