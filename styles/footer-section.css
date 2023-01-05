@@ -1,0 +1,26 @@
+section{
+  margin-top: 130px;
+}
+.foot{
+  background-color:  #0B0D17;
+
+}
+.fot{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px 200px;
+}
+.fot h3{
+  font-family: 'Lobster';
+
+  font-weight: 400;
+  font-size: 36px;
+  letter-spacing: 0.5px;
+  color: #FF5959;
+}
+.fot p{
+  font-weight: 400;
+font-size: 14px;
+color: #D9DBE1;
+}
