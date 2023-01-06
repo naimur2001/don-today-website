@@ -87,9 +87,10 @@ li:hover{
   display: flex;
   gap: 24px;
   padding: 30px 30px;
+
 }
 .c{
-  padding: 30px 30px;
+  padding: 50px 50px;
   border-radius: 5px;
 }
 .c1{
@@ -106,15 +107,18 @@ li:hover{
 font-size: 24px;
 color: #121212;
 margin-bottom: 30px;
+
 }
 .c-des{
   font-weight: 400;
 font-size: 16px;
 line-height: 24px;
 
+
 color: #707070;
 }
 .s-cards img{
+ 
   margin-bottom: 30px;
 }
 .two-part{
