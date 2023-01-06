@@ -46,7 +46,7 @@ li{
   font-size: 30px;
   text-align: center;
   color:#707070;
-  
+  border: 2px solid #FFFFFF;
 }
 li:hover{
 
@@ -73,7 +73,7 @@ li:hover{
   text-align: center;
   color: #B3B3B3 ;
   font-weight: 400;
-font-size: 18px;
+  font-size: 18px;
   width: 400px;
   margin-top: 30px;
   margin-bottom: 30px;
